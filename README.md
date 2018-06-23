@@ -1,2 +1,2 @@
 # coding-sprint
-Coding sprint with my team members.
+Coding sprint with my team
